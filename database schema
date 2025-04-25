@@ -1,3 +1,5 @@
+-- Create this database in mysql
+
 CREATE DATABASE jobboarddb;
 
 CREATE TABLE users (
